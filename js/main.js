@@ -10,7 +10,7 @@ for (i = 0; i < 75; i++) {
     top: Math.random() * bannerHeight,
     left: Math.random() * bannerWidth,
     opacity: Math.random(),
-    transform: 'rotate(' + Math.random() * 360 + 'deg) scale(' + Math.random() +')'
+    transform: 'rotate(' + Math.random() * 360 + 'deg) scale(' + Math.random() + ')'
 
   });
   $body.append($star);
