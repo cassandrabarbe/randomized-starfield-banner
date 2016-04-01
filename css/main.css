@@ -50,6 +50,9 @@ body {
   position: absolute;
   top: 0;
   width: 30px;
+  transition:
+  
+
 
   background: url("../images/star.svg") no-repeat center center / contain transparent;
 }
